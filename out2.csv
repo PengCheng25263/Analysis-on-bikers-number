@@ -1,0 +1,7 @@
+,datetime,gender,had_helmet,had_passenger,on_sidewalk
+count,1958,1958,1958,1958,1958
+unique,48,2,2,2,2
+top,2010-09-24 17:15:00,Male,No,No,No
+freq,128,1097,1007,1953,1885
+first,2010-09-24 07:00:00,,,,
+last,2010-09-24 18:45:00,,,,
